@@ -1,0 +1,2 @@
+# IMDb_Analysis_MySQL
+RSVP Movies is an Indian film production company which has produced hit movies but focused on Indian audience and now they are planning to make their focus towards Global audience too. Based on the given data they want us to perform analytical survey that would help to find factors in achieving their target by understanding various factors like best actors, budget, producer, genre, etc. 
